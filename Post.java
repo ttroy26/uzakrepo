@@ -17,6 +17,10 @@ public class Post {
     public static String gonder(String site , String json)
     {
 		int b=5+4;
+<<<<<<< Updated upstream
 	  	return true;
+=======
+	    return false;
+>>>>>>> Stashed changes
     }
 }
