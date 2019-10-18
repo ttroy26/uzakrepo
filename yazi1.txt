@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ﻿ilk satir
 
 ikinci satir
@@ -9,3 +10,8 @@ ikinci satir
 
 adasdas
 adasd
+=======
+ilk satir
+ikinci satir
+besinci satir
+>>>>>>> Stashed changes
