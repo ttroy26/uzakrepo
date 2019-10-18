@@ -17,7 +17,6 @@ public class Post {
     public static String gonder(String site , String json)
     {
 		int b=5+4;
-	    return false;
-       return null;
+	  	return true;
     }
 }
