@@ -1,2 +1,7 @@
 ilk satir
+<<<<<<< HEAD
 ikinci satir
+=======
+ücüncü satir
+dördüncü satir
+>>>>>>> f5693d519f6bac51ffa715f316ce1791b3950bfa
