@@ -21,6 +21,9 @@ public class Post {
 	  	return true;
 =======
 	    return false;
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     }
 }
