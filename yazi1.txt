@@ -2,7 +2,10 @@
 
 ikinci satir
 
+<<<<<<< HEAD
 ücüncü satir
+=======
+>>>>>>> d9af9383a14021479c02655824fd187b198e7505
 
 adasdas
 adasd
